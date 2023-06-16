@@ -1,0 +1,26 @@
+# operations
+print(3+4)
+print(3-4)
+print(3*4)
+print(3%4)
+print(3/4)
+print(3**4)
+print(3//4)
+# strings
+first_name='Andy'
+last_name='Silva'
+country='Cuba'
+age= '26'
+python='I am enjoying 30 days of pyhon'
+# Checking the data types
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(['Asabeneh','Python','Finlanad']))
+# displaying some info
+print(first_name)
+print(last_name)
+print(country)
+print(age)
+print(python)
